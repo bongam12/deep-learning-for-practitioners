@@ -219,6 +219,15 @@ Some supplementary materials:
 
 ### Week Nine
 
+#### Using Reinforcement Learning in the Algorithmic Trading Problem
+
+* [Link to paper](https://arxiv.org/pdf/2002.11523v1.pdf)
+* [Link to codebase](https://github.com/evgps/a3c_trading)
+* [Presentation](https://docs.google.com/presentation/d/1jDrKULFUqyjm-2Uc4uMi0RBR_BGyHOpDNB0sGgalD2k/edit?userstoinvite=warrentaylor2020%40u.northwestern.edu&ts=5ed0ffa4#slide=id.g8630c6cec4_0_126)
+
+##### Supplement materials:
+* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
+
 #### Human-level control through deep reinforcement learning
 * [Link to paper](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
 * [Link to codebase](https://github.com/tjwhitaker/human-level-control-through-deep-reinforcement-learning)
@@ -232,15 +241,6 @@ Some supplementary materials:
 * [Additional Papers](https://www.cs.utexas.edu/~dana/Reward.pdf)
 * [Additional Papers](https://arxiv.org/pdf/1611.02167.pdf)
 * [Additional Papers](https://arxiv.org/pdf/1511.06581.pdf)
-
-#### Using Reinforcement Learning in the Algorithmic Trading Problem
-
-* [Link to paper](https://arxiv.org/pdf/2002.11523v1.pdf)
-* [Link to codebase](https://github.com/evgps/a3c_trading)
-* [Presentation](https://docs.google.com/presentation/d/1jDrKULFUqyjm-2Uc4uMi0RBR_BGyHOpDNB0sGgalD2k/edit?userstoinvite=warrentaylor2020%40u.northwestern.edu&ts=5ed0ffa4#slide=id.g8630c6cec4_0_126)
-
-##### Supplement materials:
-* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
 
 
 ## Sponsors
